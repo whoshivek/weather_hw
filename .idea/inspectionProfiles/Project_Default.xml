@@ -1,0 +1,56 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="gateway" />
+          <option value="gateway" />
+          <option value="gateway" />
+          <option value="gateway" />
+          <option value="gateway" />
+          <option value="gateway" />
+          <option value="gateway" />
+          <option value="gateway" />
+          <option value="weather" />
+          <option value="weather" />
+          <option value="weather" />
+          <option value="weather" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="commons-codec:commons-codec:1.11" />
+          <option value="org.apache.httpcomponents:httpclient:4.5.9" />
+          <option value="com.fasterxml.jackson.core:jackson-databind:2.9.9" />
+          <option value="io.netty:netty-codec-http2:4.1.38.Final" />
+          <option value="io.netty:netty-codec-http:4.1.38.Final" />
+          <option value="io.netty:netty-codec:4.1.38.Final" />
+          <option value="com.google.guava:guava:16.0.1" />
+          <option value="commons-collections:commons-collections:3.2.2" />
+          <option value="ch.qos.logback:logback-classic:1.2.3" />
+          <option value="ch.qos.logback:logback-core:1.2.3" />
+          <option value="com.jayway.jsonpath:json-path:2.4.0" />
+          <option value="junit:junit:4.12" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
